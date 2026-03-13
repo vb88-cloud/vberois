@@ -1,7 +1,5 @@
 
-  # V3-Professional Portfolio Website
-
-  This is a code bundle for V3-Professional Portfolio Website. The original project is available at https://www.figma.com/design/6XLRQF3dIYhzXdFcd8vFXB/V3-Professional-Portfolio-Website.
+  # VBEROIS
 
   ## Running the code
 
